@@ -1,2 +1,2 @@
 # libpythonpro
-Módula para exemplificar construção de projetos Python no curso PyTool
+Módulo para exemplificar construção de projetos Python no curso PyTool
