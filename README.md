@@ -4,3 +4,4 @@ Módulo para exemplificar construção de projetos Python no curso PyTool
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
+Link para o curso [Python Pro](https://www.python.pro.br/)
